@@ -10,6 +10,29 @@
     <version>1.0.0</version>
     <modules>
         <module>SingletonPattern</module>
+        <module>FactoryPattern</module>
+        <module>AbstractFactoryPattern</module>
+        <module>BuilderPattern</module>
+        <module>PrototypePattern</module>
+        <module>AdapterPattern</module>
+        <module>BridgePattern</module>
+        <module>Filter</module>
+        <module>CompositePattern</module>
+        <module>DecoratorPattern</module>
+        <module>FacadePattern</module>
+        <module>FlyweightPattern</module>
+        <module>ProxyPattern</module>
+        <module>ChainOfResponsibilityPattern</module>
+        <module>CommandPattern</module>
+        <module>InterpreterPattern</module>
+        <module>IteratorPattern</module>
+        <module>MediatorPattern</module>
+        <module>MementoPattern</module>
+        <module>ObserverPattern</module>
+        <module>StatePattern</module>
+        <module>StrategyPattern</module>
+        <module>TemplatePattern</module>
+        <module>VisitorPattern</module>
     </modules>
 
     <properties>
